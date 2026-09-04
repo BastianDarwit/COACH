@@ -14,11 +14,12 @@
 - **Cierre y entrega final:** octubre de 2026.
 - **Equipo del magíster:** 8 estudiantes.
 
+Jornadas registradas en esta bitácora:
+
 | Jornada | Fechas | Actividades trabajadas |
 |---|---|---|
 | Primera | 21 y 22 de agosto de 2026 | Rueda de la Vida · El Reloj · Mis Valores en Acción · Mi Visión a 5 años · Meta S.M.A.R.T. |
 | Segunda | 28 y 29 de agosto de 2026 | Autodiagnóstico de Creencias Limitantes · Gestión Efectiva del Tiempo |
-| Tercera | Por realizar | — |
 
 ---
 
