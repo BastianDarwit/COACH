@@ -9,7 +9,7 @@
 
 ## Estructura del curso
 
-- **Duración:** cuatro fines de semana (viernes y sábado).
+- **Duración:** tres fines de semana (viernes y sábado).
 - **Inicio:** viernes 21 de agosto de 2026.
 - **Cierre y entrega final:** octubre de 2026.
 - **Equipo del magíster:** 8 estudiantes.
@@ -18,8 +18,7 @@
 |---|---|---|
 | Primera | 21 y 22 de agosto de 2026 | Rueda de la Vida · El Reloj · Mis Valores en Acción · Mi Visión a 5 años · Meta S.M.A.R.T. |
 | Segunda | 28 y 29 de agosto de 2026 | Autodiagnóstico de Creencias Limitantes · Gestión Efectiva del Tiempo |
-| Tercera | Por registrar | — |
-| Cuarta | Por registrar | — |
+| Tercera | Por realizar | — |
 
 ---
 
@@ -557,16 +556,6 @@ Al cruzar las dos jornadas aparece un hilo conductor que no era visible activida
 | Pedir ayuda como conducta concreta, comenzando al cocinar. | Creencias Limitantes — 2.ª jornada | En práctica |
 | Sistema único de registro, dos bloques protegidos diarios y al menos 2 solicitudes evaluadas por semana. | Gestión del Tiempo — 2.ª jornada | 5 de octubre de 2026 |
 | Reaplicar el autodiagnóstico de gestión del tiempo (meta: 110/150 o más). | Gestión del Tiempo — 2.ª jornada | 5 de octubre de 2026 |
-
----
-
-## Pendientes de registro
-
-- Horario de término exacto de la jornada del sábado 22 de agosto de 2026.
-- Nombre o denominación oficial de los módulos de cada jornada.
-- Tercera y cuarta jornada del curso.
-- Resultado de la reaplicación del autodiagnóstico de gestión del tiempo (5 de octubre de 2026).
-- Resultado de la revisión de la meta S.M.A.R.T. de empatía (31 de octubre de 2026).
 
 ---
 
